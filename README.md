@@ -1,1 +1,6 @@
 # Individual_project
+Music: The Evolution of Sentiment
+![Image Description](https://raw.githubusercontent.com/<your-username>/<your-repository>/main/images/image.jpg)
+# Abstract
+This research project aims to analyze two distinct sources of data in order to explore the relationship between music and sentiment over time. The primary target of this project is to examine the Billboard Hot 100 dataset from 1999 to 2019, specifically focusing on the lyrics of the most popular songs during that period. In addition to the lyrics dataset, the project also incorporates the insights and perspectives shared in the book titled "An Art and a Language" by Walter Raymond Spalding.
+In Chapter XX, Spalding emphasizes examining and analyzing music's creation, consumption, and dissemination. He highlights the importance of conveying a positive message in our society and introduces theories to perceive music from various perspectives. I utilized Python's sentiment analysis to study positive messages in contemporary music. The Billboard 100 dataset revealed a rise in positive messages by new artists, showcasing their commitment to making a positive impact on society. Music creators are actively targeting positivity, contributing to a more optimistic social atmosphere.
